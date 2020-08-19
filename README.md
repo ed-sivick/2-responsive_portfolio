@@ -1,1 +1,3 @@
-# 2-responsive_portfolio
+# Project Title: CSS and Bootstrap Responsive Portfolio
+___
+## Objective
