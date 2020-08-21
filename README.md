@@ -36,7 +36,7 @@ The html code includes the following:
 - a responsive layout that adjusts the images and text when the screen is re-sized
 - the sticky footer code from the `index.html` file was copied and added to this file.
 
-## Layout: style.css
+## Styling: style.css
 The appearance of the **navbar** in the 3 html files was changed.
 The **h1** text for the 3 html files was changed.
 The **hr** horizontal ruler for the 3 html files was changed.
