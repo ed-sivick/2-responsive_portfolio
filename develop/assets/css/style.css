@@ -1,52 +1,59 @@
-/*navbar style (Edward Sivick)*/
+/* navbar style (Edward Sivick) */
 .navbar-light .navbar-brand {
     font-family: 'Times New Roman', Times, serif;
     font-size: 1.5rem;
     font-weight: bolder;
     color: black;  
 }
-/*navbar style (About/Contact Me, My Portfolio)*/
+/* navbar style (About/Contact Me, My Portfolio) */
 .navbar-light .navbar-nav .nav-link{
     font-family: 'Times New Roman', Times, serif;
     font-size: 1rem;
     font-weight: bold;
     color: white;
 }
-/* h1 text style in head_info class*/
+/* h1 text style in head_info class */
 .head_info h1 {
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
+    padding-left: 1rem;
     padding-top: 1rem;
 }
-/*horizontal ruler (hr) style */
+/* horizontal ruler (hr) style */
 .head_info hr {
     height:5px;
     background-color: #007bff;
 }
-/* p text style inside about class*/
+/* right margin of images */
+.img-right {
+    margin-right: 1rem;
+}
+/* bottom margin of images */
+.img-btm {
+    margin-bottom: 1rem;
+}
+/* p text style inside about class */
 .about {
     font-family: 'Times New Roman', Times, serif;
-    font-size: 1rem;
-    float: left;
+    font-size: 1rem;   
 }
-/*style for Contact Form*/
+/* style for Contact Form */
 .form-group {
     font-family: 'Times New Roman', Times, serif;
     font-size: 1rem;
     font-weight: bold;  
 }
-/*style for Submit button*/
+/* style for Submit button */
 .btn {
     font-size: 1rem;
     background-color: #007bff;
     padding: .375rem 1.75rem;  
 }
-/*prevents Portfolio content from being hidden by footer*/
+/* prevents Portfolio content from being hidden by footer */
 .btm-margin {
     margin-bottom: 3rem;
 }
-
-/*footer class style */
+/* footer class style */
 .footer {
     font-family: 'Times New Roman', Times, serif;
     font-size: 1rem;
@@ -61,3 +68,21 @@
     line-height: 3rem;
     background-color: #007bff;
 }
+/* media query to change bg color when screen size is below 576px, xs */
+/* re-sizes image to use full viewport below 576px */
+/* main left/right margins at 0 below 576px to use entire screen */
+@media only screen and (max-width: 576px) {
+    body {
+      background-color: ivory;
+        }
+    .img-ctr {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+            }
+    main {
+        margin-left: 0;
+        margin-right: 0;
+            }
+        }
