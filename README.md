@@ -62,7 +62,7 @@ style.css code: (https://github.com/ed-sivick/2-responsive_portfolio/blob/master
 
 **Application Image Examples:** Hover the mouse over each image for a brief description. 
 <p align="left">
-  <img src="develop/assets/images/screenshot1.png" width="375" style="float:left; margin-top: 60px;" title="image of Ed Sivick biography" alt="image of Ed Sivick biography">
+  <img src="develop/assets/images/screenshot1.png" width="375" style="float:left; margin-top: 0px;" title="image of Ed Sivick biography" alt="image of Ed Sivick biography">
   
   <img src="develop/assets/images/screenshot2.png" width="450" style="float:right" title="portfolio images of work related programs" alt="portfolio images of work related programs">
 
