@@ -54,17 +54,17 @@ Bootstrap is a valuable CSS framework that allows web developers to save time cr
 ___
 ## Application Links and Images  
 **Links:**  
-Application link: (https://ed-sivick.github.io/2-responsive_portfolio/develop/index.html)    
-index.html code: (https://github.com/ed-sivick/2-responsive_portfolio/blob/master/develop/index.html)  
-portfolio.html code: (https://github.com/ed-sivick/2-responsive_portfolio/blob/master/develop/portfolio.html)    
-contact.html code: (https://github.com/ed-sivick/2-responsive_portfolio/blob/master/develop/contact.html)  
-style.css code: (https://github.com/ed-sivick/2-responsive_portfolio/blob/master/develop/assets/css/style.css) 
+Application link: (https://ed-sivick.github.io/2-responsive_portfolio/index.html)    
+index.html code: (https://github.com/ed-sivick/2-responsive_portfolio/blob/master/index.html)  
+portfolio.html code: (https://github.com/ed-sivick/2-responsive_portfolio/blob/master/portfolio.html)    
+contact.html code: (https://github.com/ed-sivick/2-responsive_portfolio/blob/master/contact.html)  
+style.css code: (https://github.com/ed-sivick/2-responsive_portfolio/blob/master/assets/style.css) 
 
 **Application Image Examples:** Hover the mouse over each image for a brief description. 
 <p align="left">
-  <img src="develop/assets/images/screenshot1.png" width="350" style="float:left" title="image of Ed Sivick biography" alt="image of Ed Sivick biography">
+  <img src="assets/images/screenshot1.png" width="375" style="float:left; margin-bottom: px;" title="image of Ed Sivick biography" alt="image of Ed Sivick biography">
   
-  <img src="develop/assets/images/screenshot2.png" width="425" style="float:right" title="portfolio images of work related programs" alt="portfolio images of work related programs">
+  <img src="assets/images/screenshot2.png" width="450" style="float:right" title="portfolio images of work related programs" alt="portfolio images of work related programs">
 
-  <img src="develop/assets/images/screenshot3.png" width="350" style="float:left"  title="image of Ed Sivick contact me form" alt="image of Ed Sivick contact me form">
+  <img src="assets/images/screenshot3.png" width="375" style="float:left; margin-top: 70px;"  title="image of Ed Sivick contact me form" alt="image of Ed Sivick contact me form">
   </p>
